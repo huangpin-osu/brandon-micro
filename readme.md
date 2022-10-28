@@ -53,7 +53,7 @@ The template code snippet below renders the pulled player data into a table with
 ```
 
 An image of what is output:
-![Demo using the microservice](source\assets\demo.jpg)
+![Demo using the microservice](source/assets/demo.jpg)
 
 ## Credits
 **Tutorials Referenced:**
