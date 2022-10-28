@@ -21,7 +21,7 @@ import requests
 @app.route('/')
 def index():
     game_id = 134948844
-    players_raw = requests.get('https://gk344ms.deta.dev/gameid/' + str(game_id))
+    players_raw = requests.get('https://gk361ms.deta.dev/gameid/' + str(game_id))
     players = players_raw.json()
     return render_template('index.html', players=players) 
 ```
