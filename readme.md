@@ -55,11 +55,6 @@ The template code snippet below renders the pulled player data into a table with
 An image of what is output:
 ![Demo using the microservice](source/assets/demo.jpg)
 
-
-## UML Diagram
-![UML Diagram](source/assets/uml.png)
-
-
 ## Credits
 **Tutorials Referenced:**
 1. [Unofficial Documentation for DraftKings](https://seandrummy.medium.com/unofficial-documentation-for-the-draft-kings-api-8830f8e8c7fc)
