@@ -69,3 +69,4 @@ An image of what is output:
 5. [Requests Documentation for JSON Response Content](https://requests.readthedocs.io/en/latest/user/quickstart/#json-response-content)
 6. Referenced for the creation of the demo: [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 7. [How to Write a Good Readme File](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+
